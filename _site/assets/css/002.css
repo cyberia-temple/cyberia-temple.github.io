@@ -303,6 +303,10 @@ ul.topbar a {
   margin-bottom: 15px;
 }
 
+.post-content {
+  padding: 0 5px;
+}
+
 .hljs {
   background: #fff8ff;
 }

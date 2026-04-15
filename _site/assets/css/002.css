@@ -155,9 +155,9 @@ ul.topbar a {
 .post_list ul li {
   display: inline-block;
   margin: 10px;
-  max-width: 21ch;
+  max-width: 12ch;
+  width: 12ch;
   text-overflow: ellipsis;
-  white-space: nowrap;
   text-align: center;
 }
 .post_list ul li img {

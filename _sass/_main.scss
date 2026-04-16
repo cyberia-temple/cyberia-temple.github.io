@@ -107,10 +107,10 @@ ul.topbar {
 
 		li {
 			display: inline-block;
+			vertical-align: top; /* ← ВАЖНО */
 			margin: 10px;
 			max-width: 12ch;
 			width: 12ch;
-			// overflow: hidden;
 			text-overflow: ellipsis;
 			text-align: center;
 
